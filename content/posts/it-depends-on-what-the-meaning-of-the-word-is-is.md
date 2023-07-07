@@ -1,7 +1,7 @@
 ---
 title: "It Depends on What the Meaning of the Word Is Is"
 date: 2023-07-07T06:25:29-04:00
-draft: true
+draft: false
 ---
 
 I've avoided using the `is` operator in Python without understanding why. I'm sure I read it in a tutorial or blog that advised me to always use `==` for comparison. While doing some code review with a colleague, the use of the operator in a comparison got my attention so I decided to dig into it with some examples in the repl:
