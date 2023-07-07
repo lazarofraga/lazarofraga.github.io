@@ -1,7 +1,7 @@
 ---
 title: "is vs == and Stumbling on Python Optimization"
 date: 2023-07-07T06:25:29-04:00
-draft: true
+draft: false
 ---
 
 I've avoided using the `is` operator in Python without understanding why. I'm sure a tutorial or blog advised me to always use `==` for comparison. 
